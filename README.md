@@ -75,7 +75,7 @@ Depending on the practice, the projects use components such as:
 
 ## Tinkercad projects
 
-Original simulations were created in Tinkercad. Each practice can include its own Tinkercad link inside its folder README or documentation file.
+Original simulations were created in Tinkercad. Each practice include its own Tinkercad link inside its folder README or documentation file.
 
 ## Learning goals
 
